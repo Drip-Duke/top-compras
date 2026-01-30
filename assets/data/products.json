@@ -1,0 +1,209 @@
+{
+  "categories": [
+    {
+      "id": "maisprocurados",
+      "name": "Mais Procurados",
+      "products": [
+        {
+          "id": "1",
+          "name": "Game Popular 2024",
+          "price": 89.99,
+          "image": "https://via.placeholder.com/250x250?text=Game+1",
+          "description": "Jogo mais vendido do ano"
+        },
+        {
+          "id": "2",
+          "name": "Game RPG Completo",
+          "price": 79.99,
+          "image": "https://via.placeholder.com/250x250?text=Game+2",
+          "description": "RPG com 100+ horas de gameplay"
+        },
+        {
+          "id": "3",
+          "name": "Aventura Épica",
+          "price": 69.99,
+          "image": "https://via.placeholder.com/250x250?text=Game+3",
+          "description": "Aventura emocionante em mundo aberto"
+        },
+        {
+          "id": "4",
+          "name": "FPS Competitivo",
+          "price": 59.99,
+          "image": "https://via.placeholder.com/250x250?text=Game+4",
+          "description": "Multiplayer online ultra rápido"
+        },
+        {
+          "id": "5",
+          "name": "Estratégia Avançada",
+          "price": 49.99,
+          "image": "https://via.placeholder.com/250x250?text=Game+5",
+          "description": "Jogo de estratégia complexo"
+        }
+      ]
+    },
+    {
+      "id": "steamkeys",
+      "name": "Steam Keys",
+      "products": [
+        {
+          "id": "6",
+          "name": "Counter-Strike 2",
+          "price": 0.00,
+          "image": "https://via.placeholder.com/250x250?text=CS2",
+          "description": "Jogo grátis no Steam"
+        },
+        {
+          "id": "7",
+          "name": "Elden Ring",
+          "price": 289.99,
+          "image": "https://via.placeholder.com/250x250?text=Elden+Ring",
+          "description": "Ação fromsoft épica"
+        },
+        {
+          "id": "8",
+          "name": "Baldur's Gate 3",
+          "price": 239.99,
+          "image": "https://via.placeholder.com/250x250?text=BG3",
+          "description": "RPG de ficção científica"
+        },
+        {
+          "id": "9",
+          "name": "Palworld",
+          "price": 99.99,
+          "image": "https://via.placeholder.com/250x250?text=Palworld",
+          "description": "Pokemon-like com ação"
+        },
+        {
+          "id": "10",
+          "name": "Helldivers 2",
+          "price": 79.99,
+          "image": "https://via.placeholder.com/250x250?text=Helldivers2",
+          "description": "Coop tático intenso"
+        }
+      ]
+    },
+    {
+      "id": "contas-com-jogos",
+      "name": "Contas Com Jogos",
+      "products": [
+        {
+          "id": "11",
+          "name": "Conta Premium - 50 Jogos",
+          "price": 199.99,
+          "image": "https://via.placeholder.com/250x250?text=Premium50",
+          "description": "Acesso a 50 jogos populares"
+        },
+        {
+          "id": "12",
+          "name": "Conta Elite - 100 Jogos",
+          "price": 349.99,
+          "image": "https://via.placeholder.com/250x250?text=Elite100",
+          "description": "Acesso completo 100+ títulos"
+        },
+        {
+          "id": "13",
+          "name": "Conta Iniciante - 20 Jogos",
+          "price": 99.99,
+          "image": "https://via.placeholder.com/250x250?text=Init20",
+          "description": "Perfeito para começar"
+        },
+        {
+          "id": "14",
+          "name": "Conta Streamer - 200 Jogos",
+          "price": 599.99,
+          "image": "https://via.placeholder.com/250x250?text=Streamer200",
+          "description": "Completa para streamers"
+        },
+        {
+          "id": "15",
+          "name": "Conta Ultimate - Ilimitada",
+          "price": 899.99,
+          "image": "https://via.placeholder.com/250x250?text=Ultimate",
+          "description": "Todos os jogos disponíveis"
+        }
+      ]
+    },
+    {
+      "id": "assinaturas",
+      "name": "Assinaturas",
+      "products": [
+        {
+          "id": "16",
+          "name": "GamePass 1 Mês",
+          "price": 19.99,
+          "image": "https://via.placeholder.com/250x250?text=GamePass+1m",
+          "description": "Acesso 1 mês GamePass"
+        },
+        {
+          "id": "17",
+          "name": "GamePass 3 Meses",
+          "price": 49.99,
+          "image": "https://via.placeholder.com/250x250?text=GamePass+3m",
+          "description": "Acesso 3 meses GamePass"
+        },
+        {
+          "id": "18",
+          "name": "PlayStation Plus 1 Mês",
+          "price": 24.99,
+          "image": "https://via.placeholder.com/250x250?text=PS+Plus+1m",
+          "description": "Acesso PlayStation Plus"
+        },
+        {
+          "id": "19",
+          "name": "Nintendo Switch Online",
+          "price": 29.99,
+          "image": "https://via.placeholder.com/250x250?text=NSW+Online",
+          "description": "Online + Classic Games"
+        },
+        {
+          "id": "20",
+          "name": "Bundle Completo - 1 Ano",
+          "price": 199.99,
+          "image": "https://via.placeholder.com/250x250?text=Bundle+1y",
+          "description": "Todos os serviços por 1 ano"
+        }
+      ]
+    },
+    {
+      "id": "steam-offline",
+      "name": "Steam Offline",
+      "products": [
+        {
+          "id": "21",
+          "name": "Single Player Collection",
+          "price": 149.99,
+          "image": "https://via.placeholder.com/250x250?text=SP+Collection",
+          "description": "Jogos para jogar offline"
+        },
+        {
+          "id": "22",
+          "name": "Indie Games Pack",
+          "price": 79.99,
+          "image": "https://via.placeholder.com/250x250?text=Indie+Pack",
+          "description": "30+ indie games clássicos"
+        },
+        {
+          "id": "23",
+          "name": "Retro Classics",
+          "price": 49.99,
+          "image": "https://via.placeholder.com/250x250?text=Retro",
+          "description": "Clássicos dos anos 90-2000"
+        },
+        {
+          "id": "24",
+          "name": "Story-Driven Games",
+          "price": 129.99,
+          "image": "https://via.placeholder.com/250x250?text=Story",
+          "description": "Histórias incríveis offline"
+        },
+        {
+          "id": "25",
+          "name": "Complete Library",
+          "price": 299.99,
+          "image": "https://via.placeholder.com/250x250?text=Complete",
+          "description": "100+ jogos para jogar offline"
+        }
+      ]
+    }
+  ]
+}
